@@ -88,7 +88,7 @@ const SignUp = styled.a`
   display: block;
 
   &:hover {
-    background-color: red;
+    background-color: #16527A;
   }
 `;
 const Description = styled.p`
